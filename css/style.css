@@ -8330,7 +8330,7 @@ h1, h2, h3, h4, h5,
     bottom: 0;
     content: '';
     opacity: .6;
-    background: #2f89fc; }
+    background: transparent; }
   .hero-wrap .slider-text {
     color: #fff;
     height: 750px; }
@@ -8445,7 +8445,7 @@ h1, h2, h3, h4, h5,
         bottom: 0;
         left: 0;
         right: 0;
-        background: #2f89fc;
+        background: transparent;
         opacity: .6; }
       .owl-carousel.home-slider .slider-item .slider-text {
         height: 800px;
